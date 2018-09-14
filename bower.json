@@ -1,0 +1,21 @@
+{
+  "name": "angular",
+  "authors": [
+    "vpa24 <vuphuonganh020497@gmail.com>"
+  ],
+  "description": "Example with Angular",
+  "main": "",
+  "license": "GPL",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.4"
+  }
+}

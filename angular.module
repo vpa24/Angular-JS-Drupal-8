@@ -1,0 +1,7 @@
+<?php
+
+function angular_preprocess_html(&$variables)
+{
+    $variables['html_attributes']['ng-app'] = '';
+    $variables['#attached']['library'][] = 'angular/angular_lib';
+}

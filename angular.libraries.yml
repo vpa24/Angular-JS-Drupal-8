@@ -1,0 +1,6 @@
+angular_lib:
+  js:
+    'bower_components/angular/angular.js': {}
+  css:
+    component:
+      'bower_components/angular/angular-csp.css': {}
